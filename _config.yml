@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: a5ef581c4ded3b0429df
-  clientSecret: 41f7e1ca075531e1cf3c4cc236675a3da617674f
+  clientID: 7cb3593fb57de07f2958
+  clientSecret: 6e71282276626436b0306214e6a46cb76c62375e
   repo: tts0.github.io
   owner: tts0
 
