@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 7cb3593fb57de07f2958
   clientSecret: 6e71282276626436b0306214e6a46cb76c62375e
-  repo: tts0.github.io
+  repo: tts-gitalk
   owner: tts0
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
