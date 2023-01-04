@@ -28,7 +28,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-
+  - name: 哔哩哔哩
+  - url: https://space.bilibili.com/1751547690
 # Pagination
 paginate: 8
 
@@ -40,9 +41,10 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   email: telltoday@hotmail.com
+  bilibili: https://space.bilibili.com/1751547690
   facebook:
   flickr:
-  github: https://github.com/tts0
+  github: tts0
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
